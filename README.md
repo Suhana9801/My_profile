@@ -11,8 +11,8 @@
 
 ###
 
-<img align="right" height="150" src="C:\Users\SUHANA\Downloads\Techgirl_minimal_pic.png"  />
-<a href='https://pngtree.com/freepng/hand-drawn-cartoon-computer-voice-communication-illustration_5335354.html'>png image from pngtree.com/</a>
+<img align="right" height="150" src="https://pngtree.com/freepng/hand-drawn-cartoon-computer-voice-communication-illustration_5335354.html"  />
+
 
 ###
 
