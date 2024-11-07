@@ -1,5 +1,5 @@
-# My_profile
-This is my personalized github profile 
+# Suhana
+
 <h2 align="left">Hi 👋! My name is Suhana </h2>
 
 ###
