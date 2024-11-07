@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src=""C:\Users\SUHANA\Downloads\Techgirl_minimal_pic.png""  />
+<img align="right" height="150" src="C:\Users\SUHANA\Downloads\Techgirl_minimal_pic.png"  />
 
 ###
 
