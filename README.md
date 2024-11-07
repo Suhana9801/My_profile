@@ -1,6 +1,6 @@
 # Suhana
 
-<h2 align="left">Hi 👋! My name is Suhana </h2>
+<h2 align="left">Hi 👋! </h2>
 
 ###
 
